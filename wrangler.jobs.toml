@@ -1,0 +1,18 @@
+name = "mowarid-store-jobs"
+main = "src/server/jobs.ts"
+compatibility_date = "2026-10-01"
+
+[triggers]
+crons = ["* * * * *"]
+
+[vars]
+ENVIRONMENT = "production"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "store"
+database_id = "00000000-0000-0000-0000-000000000000"
+
+[[r2_buckets]]
+binding = "BACKUPS"
+bucket_name = "store-backups"

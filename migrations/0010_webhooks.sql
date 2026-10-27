@@ -1,0 +1,2 @@
+CREATE TABLE webhook_inbox ( event_id TEXT PRIMARY KEY, body_hash TEXT NOT NULL, event_type TEXT NOT NULL, external_order_id TEXT, key_fingerprint TEXT NOT NULL, payload TEXT, status TEXT NOT NULL DEFAULT 'pending' CHECK(status IN ('pending','processing','done','ignored','failed')), attempts INTEGER NOT NULL DEFAULT 0, run_at INTEGER NOT NULL DEFAULT 0, lease_until INTEGER NOT NULL DEFAULT 0, lease_token TEXT, last_error TEXT, received_at TEXT NOT NULL, processed_at TEXT );
+CREATE INDEX webhook_inbox_due ON webhook_inbox(status,run_at);

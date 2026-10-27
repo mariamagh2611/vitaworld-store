@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "types": ["vite/client"], "jsx": "react-jsx" },
+  "include": ["src/admin", "src/client", "src/shared"]
+}

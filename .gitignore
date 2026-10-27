@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.wrangler/
+.mowarid-install-*.json
+.dev.vars*
+.env*
+playwright-report/
+test-results/
+coverage/
+backups/
+.DS_Store
+release/
+worker/
+
+!.dev.vars.example

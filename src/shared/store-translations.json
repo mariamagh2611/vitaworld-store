@@ -1,0 +1,1738 @@
+{
+  "أقسام المنتجات": {
+    "en": "Product categories",
+    "fr": "Catégories de produits"
+  },
+  "سياسة الخصوصية": {
+    "en": "Privacy policy",
+    "fr": "Politique de confidentialité"
+  },
+  "الشروط": {
+    "en": "Terms",
+    "fr": "Conditions"
+  },
+  "الخصوصية": {
+    "en": "Privacy",
+    "fr": "Confidentialité"
+  },
+  "الاسترجاع": {
+    "en": "Returns",
+    "fr": "Retours"
+  },
+  "اتصل بنا": {
+    "en": "Contact us",
+    "fr": "Contactez-nous"
+  },
+  "إغلاق": {
+    "en": "Close",
+    "fr": "Fermer"
+  },
+  "اطلب الآن": {
+    "en": "Order now",
+    "fr": "Commander maintenant"
+  },
+  "أكمل طلبك": {
+    "en": "Complete your order",
+    "fr": "Finaliser votre commande"
+  },
+  "المدينة": {
+    "en": "City",
+    "fr": "Ville"
+  },
+  "واتساب": {
+    "en": "WhatsApp",
+    "fr": "WhatsApp"
+  },
+  "بيئة تجربة محلية · لا تُرسل الطلبات إلى مورد تلقائيًا": {
+    "en": "Local test environment · Orders are not sent to Mowarid automatically",
+    "fr": "Environnement de test local · Les commandes ne sont pas envoyées automatiquement à Mowarid"
+  },
+  "فتح قائمة المتجر": {
+    "en": "Open store menu",
+    "fr": "Ouvrir le menu"
+  },
+  "قائمة المتجر": {
+    "en": "Store menu",
+    "fr": "Menu de la boutique"
+  },
+  "الرئيسية": {
+    "en": "Home",
+    "fr": "Accueil"
+  },
+  "الأقسام": {
+    "en": "Categories",
+    "fr": "Catégories"
+  },
+  "جميع المنتجات": {
+    "en": "All products",
+    "fr": "Tous les produits"
+  },
+  "تواصل معنا": {
+    "en": "Contact us",
+    "fr": "Contactez-nous"
+  },
+  "تسوق المنتجات": {
+    "en": "Shop products",
+    "fr": "Nos produits"
+  },
+  "لماذا نحن؟": {
+    "en": "Why choose us?",
+    "fr": "Pourquoi nous choisir ?"
+  },
+  "فتح سلة المشتريات": {
+    "en": "Open shopping cart",
+    "fr": "Ouvrir le panier"
+  },
+  "السلة": {
+    "en": "Cart",
+    "fr": "Panier"
+  },
+  "البحث عن منتج": {
+    "en": "Search products",
+    "fr": "Rechercher un produit"
+  },
+  "ما الذي تبحث عنه اليوم؟": {
+    "en": "What are you looking for today?",
+    "fr": "Que recherchez-vous aujourd’hui ?"
+  },
+  "بحث": {
+    "en": "Search",
+    "fr": "Rechercher"
+  },
+  "السياسات": {
+    "en": "Policies",
+    "fr": "Politiques"
+  },
+  "الدفع عند الاستلام": {
+    "en": "Cash on delivery",
+    "fr": "Paiement à la livraison"
+  },
+  "نحن هنا لمساعدتك": {
+    "en": "We’re here to help",
+    "fr": "Nous sommes là pour vous aider"
+  },
+  "استفسار عن منتج أو طلبك؟ تواصل معنا.": {
+    "en": "Question about a product or order? Contact us.",
+    "fr": "Une question sur un produit ou une commande ? Contactez-nous."
+  },
+  "تواصل عبر واتساب": {
+    "en": "Contact on WhatsApp",
+    "fr": "Contact sur WhatsApp"
+  },
+  "· الدفع عند الاستلام": {
+    "en": "· Cash on delivery",
+    "fr": "· Paiement à la livraison"
+  },
+  "واتساب ↗": {
+    "en": "WhatsApp ↗",
+    "fr": "WhatsApp ↗"
+  },
+  "التنقل في المتجر": {
+    "en": "Store navigation",
+    "fr": "Navigation de la boutique"
+  },
+  "المنتجات": {
+    "en": "Products",
+    "fr": "Produits"
+  },
+  "كل اختياراتك في مكان واحد": {
+    "en": "All your choices in one place",
+    "fr": "Tous vos choix au même endroit"
+  },
+  "سلة المشتريات": {
+    "en": "Shopping cart",
+    "fr": "Panier"
+  },
+  "التقدم نحو الشحن المجاني": {
+    "en": "Progress towards free shipping",
+    "fr": "Progression vers la livraison gratuite"
+  },
+  "مجموع المنتجات": {
+    "en": "Product subtotal",
+    "fr": "Total des produits"
+  },
+  "إتمام الطلب": {
+    "en": "Checkout",
+    "fr": "Commander"
+  },
+  "متابعة التسوق": {
+    "en": "Continue shopping",
+    "fr": "Continuer mes achats"
+  },
+  "إفراغ السلة": {
+    "en": "Empty cart",
+    "fr": "Vider le panier"
+  },
+  "الدفع عند الاستلام · تأكيد هاتفي للطلب": {
+    "en": "Cash on delivery · Order confirmed by phone",
+    "fr": "Paiement à la livraison · Confirmation par téléphone"
+  },
+  "بدء سلة جديدة؟": {
+    "en": "Start a new cart?",
+    "fr": "Commencer un nouveau panier ?"
+  },
+  "سلتك الحالية تحتوي على منتجات من مستودع مختلف. هل ترغب في إفراغ السلة وبدء طلب جديد لهذا المنتج؟": {
+    "en": "Your cart has products from another warehouse. Empty it and start a new order with this product?",
+    "fr": "Votre panier contient des produits d’un autre entrepôt. Le vider et commencer une nouvelle commande avec ce produit ?"
+  },
+  "نعم، بدء طلب جديد بهذا المنتج": {
+    "en": "Yes, start a new order with this product",
+    "fr": "Oui, commencer avec ce produit"
+  },
+  "الاحتفاظ بالسلة الحالية": {
+    "en": "Keep current cart",
+    "fr": "Conserver le panier actuel"
+  },
+  "وصلنا طلبك!": {
+    "en": "We received your order!",
+    "fr": "Nous avons reçu votre commande !"
+  },
+  "سيتواصل معك فريقنا قريبًا لتأكيد الطلب والعنوان.": {
+    "en": "Our team will contact you soon to confirm your order and address.",
+    "fr": "Notre équipe vous contactera bientôt pour confirmer votre commande et votre adresse."
+  },
+  "سلتك السابقة ما زالت محفوظة.": {
+    "en": "Your previous cart is still saved.",
+    "fr": "Votre panier précédent est conservé."
+  },
+  "أكمل طلب السلة لاحقًا ←": {
+    "en": "Complete your cart order later →",
+    "fr": "Finaliser le panier plus tard →"
+  },
+  "إغلاق الرسالة": {
+    "en": "Close message",
+    "fr": "Fermer le message"
+  },
+  "عروض متاحة": {
+    "en": "Offers available",
+    "fr": "Offres disponibles"
+  },
+  "إضافة ": {
+    "en": "Add ",
+    "fr": "Ajouter "
+  },
+  "أضف إلى السلة": {
+    "en": "Add to cart",
+    "fr": "Ajouter au panier"
+  },
+  "تسوق حسب القسم": {
+    "en": "Shop by category",
+    "fr": "Acheter par catégorie"
+  },
+  "اختر قسم المنتجات": {
+    "en": "Choose a category",
+    "fr": "Choisir une catégorie"
+  },
+  "كل الأقسام": {
+    "en": "All categories",
+    "fr": "Toutes les catégories"
+  },
+  "إلى باب بيتك": {
+    "en": "To your doorstep",
+    "fr": "Jusqu’à votre porte"
+  },
+  "منتج": {
+    "en": "product",
+    "fr": "produit"
+  },
+  "تصفح جميع المنتجات": {
+    "en": "Browse all products",
+    "fr": "Voir tous les produits"
+  },
+  "لا توجد منتجات متاحة بهذا الاختيار. جرّب قسمًا أو بحثًا آخر.": {
+    "en": "No products available for this selection. Try another category or search.",
+    "fr": "Aucun produit disponible pour cette sélection. Essayez une autre catégorie ou recherche."
+  },
+  "وحدة واحدة": {
+    "en": "One unit",
+    "fr": "Une unité"
+  },
+  "وحدة": {
+    "en": "units",
+    "fr": "unités"
+  },
+  "· توصيل مجاني": {
+    "en": "· Free delivery",
+    "fr": "· Livraison gratuite"
+  },
+  "تكبير صورة المنتج": {
+    "en": "Zoom product image",
+    "fr": "Agrandir l’image du produit"
+  },
+  "عرض الصورة": {
+    "en": "View image",
+    "fr": "Voir l’image"
+  },
+  "صور المنتج": {
+    "en": "Product images",
+    "fr": "Images du produit"
+  },
+  "صورة المنتج ": {
+    "en": "Product image ",
+    "fr": "Image du produit "
+  },
+  "متاح للطلب": {
+    "en": "Available to order",
+    "fr": "Disponible"
+  },
+  "غير متاح حاليًا": {
+    "en": "Currently unavailable",
+    "fr": "Actuellement indisponible"
+  },
+  "مشاركة ↗": {
+    "en": "Share ↗",
+    "fr": "Partager ↗"
+  },
+  "اختر ما يناسبك": {
+    "en": "Choose your option",
+    "fr": "Choisissez votre option"
+  },
+  "الكمية": {
+    "en": "Quantity",
+    "fr": "Quantité"
+  },
+  "تقليل كمية المنتج": {
+    "en": "Decrease product quantity",
+    "fr": "Diminuer la quantité"
+  },
+  "كمية المنتج": {
+    "en": "Product quantity",
+    "fr": "Quantité du produit"
+  },
+  "زيادة كمية المنتج": {
+    "en": "Increase product quantity",
+    "fr": "Augmenter la quantité"
+  },
+  "أضف المنتج إلى السلة": {
+    "en": "Add product to cart",
+    "fr": "Ajouter le produit au panier"
+  },
+  "سلتك تحتوي على منتجات من مستودع آخر. لإضافة هذا المنتج، ابدأ سلة جديدة بعد تأكيدك.": {
+    "en": "Your cart contains products from another warehouse. Start a new cart to add this product after confirming.",
+    "fr": "Votre panier contient des produits d’un autre entrepôt. Confirmez la création d’un nouveau panier pour ajouter ce produit."
+  },
+  "التوصيل إلى بابك": {
+    "en": "Delivered to your door",
+    "fr": "Livraison à domicile"
+  },
+  "الدار البيضاء:": {
+    "en": "Casablanca:",
+    "fr": "Casablanca :"
+  },
+  "· باقي المدن:": {
+    "en": "· Other cities:",
+    "fr": "· Autres villes :"
+  },
+  "ادفع عند الاستلام": {
+    "en": "Pay on delivery",
+    "fr": "Payez à la livraison"
+  },
+  "نتصل بك لتأكيد الطلب قبل إرساله.": {
+    "en": "We call to confirm your order before sending.",
+    "fr": "Nous vous appelons pour confirmer votre commande avant l’envoi."
+  },
+  "وصف المنتج": {
+    "en": "Product description",
+    "fr": "Description du produit"
+  },
+  "تواصل معنا لأي استفسار عن هذا المنتج.": {
+    "en": "Contact us for any questions about this product.",
+    "fr": "Contactez-nous pour toute question sur ce produit."
+  },
+  "التوصيل والاسترجاع": {
+    "en": "Delivery and returns",
+    "fr": "Livraison et retours"
+  },
+  "رسم توصيل واحد لكل طلب. يظهر المبلغ النهائي بعد اختيار مدينتك.": {
+    "en": "One delivery fee per order. The final amount appears after choosing your city.",
+    "fr": "Un seul frais de livraison par commande. Le montant final apparaît après sélection de votre ville."
+  },
+  "اطّلع على سياسة الاسترجاع ←": {
+    "en": "Read our return policy →",
+    "fr": "Consulter la politique de retour →"
+  },
+  "أكمل اختياراتك": {
+    "en": "Complete your selection",
+    "fr": "Complétez votre sélection"
+  },
+  "قد يعجبك أيضًا": {
+    "en": "You may also like",
+    "fr": "Vous aimerez aussi"
+  },
+  "عرض الكل ←": {
+    "en": "View all →",
+    "fr": "Voir tout →"
+  },
+  "صورة المنتج مكبرة": {
+    "en": "Enlarged product image",
+    "fr": "Image du produit agrandie"
+  },
+  "إغلاق الصورة": {
+    "en": "Close image",
+    "fr": "Fermer l’image"
+  },
+  "١ السلة": {
+    "en": "1 Cart",
+    "fr": "1 Panier"
+  },
+  "٢ بيانات التوصيل": {
+    "en": "2 Delivery details",
+    "fr": "2 Livraison"
+  },
+  "٣ تأكيد الطلب": {
+    "en": "3 Confirm order",
+    "fr": "3 Confirmation"
+  },
+  "إتمام طلبك": {
+    "en": "Complete your order",
+    "fr": "Finaliser votre commande"
+  },
+  "الدفع عند الاستلام ✓": {
+    "en": "Cash on delivery ✓",
+    "fr": "Paiement à la livraison ✓"
+  },
+  "السعر العادي": {
+    "en": "Regular price",
+    "fr": "Prix standard"
+  },
+  "· شحن مجاني": {
+    "en": "· Free shipping",
+    "fr": "· Livraison gratuite"
+  },
+  "أضف العرض إلى السلة": {
+    "en": "Add offer to cart",
+    "fr": "Ajouter l’offre au panier"
+  },
+  "يمكنك طلب هذا العرض مباشرة مع بقاء سلتك محفوظة. إضافته إلى السلة يتطلب بدء سلة جديدة.": {
+    "en": "Order this offer directly while keeping your cart. Adding it to the cart requires a new cart.",
+    "fr": "Commandez cette offre directement en conservant votre panier. Son ajout au panier nécessite un nouveau panier."
+  },
+  "بيانات التوصيل": {
+    "en": "Delivery details",
+    "fr": "Informations de livraison"
+  },
+  "(اختياري)": {
+    "en": "(optional)",
+    "fr": "(facultatif)"
+  },
+  "التوصيل إلى عنوانك": {
+    "fr": "Livraison à votre adresse",
+    "en": "Delivery to your address"
+  },
+  "يُحسب حسب المدينة · رسم واحد للطلب": {
+    "en": "Based on city · One fee per order",
+    "fr": "Selon la ville · Un seul frais par commande"
+  },
+  "ادفع نقدًا عندما يصلك طلبك": {
+    "en": "Pay cash when your order arrives",
+    "fr": "Payez en espèces à la réception"
+  },
+  "بالإرسال توافق على": {
+    "en": "By submitting, you accept",
+    "fr": "En envoyant, vous acceptez"
+  },
+  "و": {
+    "en": "and",
+    "fr": "et"
+  },
+  "ملخص طلبك": {
+    "en": "Order summary",
+    "fr": "Récapitulatif de commande"
+  },
+  "التوصيل": {
+    "en": "Delivery",
+    "fr": "Livraison"
+  },
+  "الإجمالي عند الاستلام": {
+    "en": "Total on delivery",
+    "fr": "Total à la livraison"
+  },
+  "✓ رسم توصيل واحد": {
+    "en": "✓ One delivery fee",
+    "fr": "✓ Un seul frais de livraison"
+  },
+  "✓ تأكيد هاتفي قبل الشحن": {
+    "en": "✓ Phone confirmation before shipping",
+    "fr": "✓ Confirmation téléphonique avant expédition"
+  },
+  "✓ ادفع عندما يصل طلبك": {
+    "en": "✓ Pay when your order arrives",
+    "fr": "✓ Payez à la réception"
+  },
+  "هذا طلب مستقل للعرض المختار. سلتك السابقة تبقى محفوظة.": {
+    "en": "This is a separate order for the selected offer. Your previous cart stays saved.",
+    "fr": "Ceci est une commande indépendante pour l’offre sélectionnée. Votre panier précédent est conservé."
+  },
+  "تعديل السلة": {
+    "en": "Edit cart",
+    "fr": "Modifier le panier"
+  },
+  "معاينة · ": {
+    "en": "Preview · ",
+    "fr": "Aperçu · "
+  },
+  "المنتج غير متاح حاليًا.": {
+    "en": "Product currently unavailable.",
+    "fr": "Produit actuellement indisponible."
+  },
+  "هذا المنتج موجود ضمن عرض في السلة. عدّل عرضه من صفحة المنتج.": {
+    "en": "This product is already in a cart offer. Change the offer on the product page.",
+    "fr": "Ce produit fait déjà partie d’une offre dans le panier. Modifiez l’offre sur la page produit."
+  },
+  "اختر كمية متاحة بين 1 و": {
+    "en": "Choose an available quantity between 1 and ",
+    "fr": "Choisissez une quantité disponible entre 1 et "
+  },
+  "تمت الإضافة إلى السلة": {
+    "en": "Added to cart",
+    "fr": "Ajouté au panier"
+  },
+  "نعرض المنتجات المتوافقة مع سلّتك · أفرغ السلة لتصفح الجميع": {
+    "en": "Showing products compatible with your cart · Empty cart to browse all",
+    "fr": "Produits compatibles avec votre panier · Videz-le pour tout voir"
+  },
+  "مبروك! سلتك مؤهلة للتوصيل المجاني": {
+    "en": "Congratulations! Your cart qualifies for free delivery",
+    "fr": "Félicitations ! Votre panier bénéficie de la livraison gratuite"
+  },
+  "أضف منتجات بقيمة ": {
+    "en": "Add products worth ",
+    "fr": "Ajoutez des produits pour "
+  },
+  " لتحصل على توصيل مجاني": {
+    "en": " to get free delivery",
+    "fr": " pour bénéficier de la livraison gratuite"
+  },
+  " منتج": {
+    "en": " products",
+    "fr": " produits"
+  },
+  "توصيل مجاني مع هذا العرض": {
+    "en": "Free delivery with this offer",
+    "fr": "Livraison gratuite avec cette offre"
+  },
+  "الدار البيضاء: ": {
+    "en": "Casablanca: ",
+    "fr": "Casablanca : "
+  },
+  " · باقي المدن: ": {
+    "en": " · Other cities: ",
+    "fr": " · Autres villes : "
+  },
+  "تعذر الاتصال. حاول مجددًا.": {
+    "en": "Unable to connect. Try again.",
+    "fr": "Connexion impossible. Réessayez."
+  },
+  "مجاني": {
+    "en": "Free",
+    "fr": "Gratuite"
+  },
+  "مراجعة بيانات العرض وتحديثها": {
+    "en": "Review and update offer details",
+    "fr": "Vérifier et actualiser l’offre"
+  },
+  "تحديث بيانات السلة": {
+    "en": "Update cart details",
+    "fr": "Actualiser le panier"
+  },
+  "تغير مورد أحد المنتجات. احذف المنتج غير المتوافق يدويًا.": {
+    "en": "A product’s supplier changed. Remove the incompatible product manually.",
+    "fr": "Le fournisseur d’un produit a changé. Retirez manuellement le produit incompatible."
+  },
+  "بدأت سلة جديدة لهذا المنتج": {
+    "en": "New cart started for this product",
+    "fr": "Nouveau panier créé pour ce produit"
+  },
+  "الحد الأقصى 100 وحدة.": {
+    "en": "Maximum 100 units.",
+    "fr": "Maximum 100 unités."
+  },
+  "تم نسخ رابط المنتج": {
+    "en": "Product link copied",
+    "fr": "Lien du produit copié"
+  },
+  "انسخ رابط المنتج من شريط العنوان.": {
+    "en": "Copy the product URL from the address bar.",
+    "fr": "Copiez le lien du produit depuis la barre d’adresse."
+  },
+  "تغيرت السلة في نافذة أخرى. راجعها ثم أعد الإرسال.": {
+    "en": "Cart changed in another window. Review it and submit again.",
+    "fr": "Le panier a changé dans une autre fenêtre. Vérifiez-le et renvoyez."
+  },
+  "راجع محتويات الطلب وأكمل بياناتك.": {
+    "en": "Review your order and complete your details.",
+    "fr": "Vérifiez votre commande et complétez vos coordonnées."
+  },
+  "تغيرت محتويات الطلب. راجعها ثم أعد الإرسال.": {
+    "en": "Order contents changed. Review and submit again.",
+    "fr": "Le contenu de la commande a changé. Vérifiez-le et renvoyez."
+  },
+  "جارٍ البحث…": {
+    "en": "Searching…",
+    "fr": "Recherche en cours…"
+  },
+  "لم نجد منتجًا مطابقًا. جرّب اسمًا أو كلمة أخرى.": {
+    "en": "No matching product found. Try another name or keyword.",
+    "fr": "Aucun produit trouvé. Essayez un autre nom ou mot-clé."
+  },
+  "تعذر إكمال البحث الآن. اضغط بحث للمحاولة مجددًا.": {
+    "en": "Search unavailable. Press Search to try again.",
+    "fr": "Recherche indisponible. Appuyez sur Rechercher pour réessayer."
+  },
+  "اختر عرضك وأكمل طلبك": {
+    "en": "Choose your offer and complete your order",
+    "fr": "Choisissez votre offre et finalisez votre commande"
+  },
+  "خطوة واحدة تفصلك عن طلبك": {
+    "en": "One step away from your order",
+    "fr": "Votre commande en quelques instants"
+  },
+  "تأكيد الطلب · الدفع عند الاستلام ←": {
+    "en": "Confirm order · Pay on delivery →",
+    "fr": "Confirmer la commande · Paiement à la livraison →"
+  },
+  "الاسم الكامل": {
+    "en": "Full name",
+    "fr": "Nom complet"
+  },
+  "الاسم والنسب": {
+    "en": "First and last name",
+    "fr": "Prénom et nom"
+  },
+  "رقم الهاتف": {
+    "en": "Phone number",
+    "fr": "Numéro de téléphone"
+  },
+  "اختر أو اكتب مدينتك": {
+    "en": "Choose or enter your city",
+    "fr": "Choisissez ou saisissez votre ville"
+  },
+  "العنوان بالتفصيل": {
+    "en": "Full address",
+    "fr": "Adresse complète"
+  },
+  "الحي، الشارع، رقم المنزل": {
+    "en": "Neighborhood, street, house number",
+    "fr": "Quartier, rue, numéro de maison"
+  },
+  "ملاحظات التوصيل": {
+    "en": "Delivery notes",
+    "fr": "Notes de livraison"
+  },
+  "تفاصيل تساعدنا على إيصال طلبك": {
+    "en": "Details to help us deliver your order",
+    "fr": "Précisions utiles pour livrer votre commande"
+  },
+  "الدفع عند الاستلام · توصيل إلى جميع مدن المغرب": {
+    "en": "Cash on delivery · Delivery across Morocco",
+    "fr": "Paiement à la livraison · Livraison partout au Maroc"
+  },
+  "اختيارات تُشبهك.\nوتصل إلى بابك.": {
+    "en": "Chosen for you.\nDelivered to your door.",
+    "fr": "Des choix qui vous ressemblent.\nLivrés chez vous."
+  },
+  "اكتشف منتجات مختارة بعناية، واجمع احتياجاتك في طلب واحد. ادفع فقط عند الاستلام.": {
+    "en": "Discover carefully selected products and combine your needs in one order. Pay only on delivery.",
+    "fr": "Découvrez des produits sélectionnés avec soin et réunissez vos achats en une commande. Payez seulement à la livraison."
+  },
+  "تُؤكد الطلبات هاتفيًا قبل إرسالها. الدفع عند الاستلام.": {
+    "en": "Orders are confirmed by phone before shipping. Payment on delivery.",
+    "fr": "Les commandes sont confirmées par téléphone avant l’envoi. Paiement à la livraison."
+  },
+  "نستخدم بياناتك لمعالجة الطلب والتواصل والتوصيل. يمكن طلب حذفها عبر وسيلة التواصل الموضحة.": {
+    "en": "We use your details to process, contact and deliver your order. You may request deletion through our contact channel.",
+    "fr": "Nous utilisons vos coordonnées pour traiter, confirmer et livrer votre commande. Vous pouvez demander leur suppression via notre moyen de contact."
+  },
+  "يرجى التواصل معنا لمعرفة شروط الاسترجاع قبل إتمام الطلب.": {
+    "en": "Please contact us about return conditions before completing your order.",
+    "fr": "Contactez-nous pour connaître les conditions de retour avant de finaliser votre commande."
+  },
+  "تواصل معنا عبر واتساب للاستفسار عن منتجاتك وطلباتك.": {
+    "en": "Contact us on WhatsApp about products and orders.",
+    "fr": "Contactez-nous sur WhatsApp pour vos questions sur les produits et commandes."
+  },
+  "اختيارات لحياة أجمل": {
+    "en": "Thoughtful choices for everyday life",
+    "fr": "Des choix pour un quotidien plus beau"
+  },
+  "مختارة بعناية. من أجل يومك.": {
+    "en": "Carefully selected. For your day.",
+    "fr": "Choisis avec soin. Pour votre quotidien."
+  },
+  "اكتشف المنتجات": {
+    "en": "Discover products",
+    "fr": "Découvrir les produits"
+  },
+  "✓ الدفع عند الاستلام": {
+    "en": "✓ Cash on delivery",
+    "fr": "✓ Paiement à la livraison"
+  },
+  "✓ تأكيد هاتفي": {
+    "en": "✓ Phone confirmation",
+    "fr": "✓ Confirmation téléphonique"
+  },
+  "◈ منتجات مختارة": {
+    "en": "◈ Selected products",
+    "fr": "◈ Produits sélectionnés"
+  },
+  "♧ طلب واحد وشحنة واحدة": {
+    "en": "♧ One order, one shipment",
+    "fr": "♧ Une commande, un colis"
+  },
+  "✓ ادفع عند الاستلام": {
+    "en": "✓ Pay on delivery",
+    "fr": "✓ Payez à la livraison"
+  },
+  "♡ دعم عبر واتساب": {
+    "en": "♡ WhatsApp support",
+    "fr": "♡ Assistance WhatsApp"
+  },
+  "اكتشف ما يناسبك": {
+    "en": "Find your favorites",
+    "fr": "Découvrez ce qui vous plaît"
+  },
+  "اختياراتنا لك": {
+    "en": "Our selection for you",
+    "fr": "Notre sélection pour vous"
+  },
+  "اختيار لحياة أجمل": {
+    "en": "A choice for a better everyday",
+    "fr": "Un choix pour un quotidien plus beau"
+  },
+  "اختيار مميز": {
+    "en": "Featured pick",
+    "fr": "Notre coup de cœur"
+  },
+  "تسوق براحة بال": {
+    "en": "Shop with peace of mind",
+    "fr": "Achetez en toute confiance"
+  },
+  "من اختيارك،\nإلى باب بيتك.": {
+    "en": "From your choice,\nto your doorstep.",
+    "fr": "De votre choix,\njusqu’à votre porte."
+  },
+  "اختر ما تحب": {
+    "en": "Choose what you love",
+    "fr": "Choisissez ce que vous aimez"
+  },
+  "اجمع اختياراتك في طلب واحد.": {
+    "en": "Combine your favorites in one order.",
+    "fr": "Réunissez vos choix dans une seule commande."
+  },
+  "نؤكد طلبك": {
+    "en": "We confirm your order",
+    "fr": "Nous confirmons votre commande"
+  },
+  "نتصل بك لتأكيد اختياراتك والعنوان.": {
+    "en": "We call to confirm your choices and address.",
+    "fr": "Nous vous appelons pour confirmer vos choix et votre adresse."
+  },
+  "استلم وادفع": {
+    "en": "Receive and pay",
+    "fr": "Recevez et payez"
+  },
+  "رسم توصيل واحد، والدفع عند الاستلام.": {
+    "en": "One delivery fee, payment on arrival.",
+    "fr": "Un seul frais de livraison, paiement à la réception."
+  },
+  "منتجات تختارها بثقة، وتجربة شراء بسيطة.": {
+    "en": "Products you choose with confidence. A simple shopping experience.",
+    "fr": "Des produits choisis en confiance. Une expérience d’achat simple."
+  },
+  "اختيارات جديدة قريبًا": {
+    "en": "New products coming soon",
+    "fr": "De nouveaux produits bientôt disponibles"
+  },
+  "نعمل على تجهيز منتجات المتجر. تابعنا لمعرفة الجديد.": {
+    "en": "We’re preparing our store’s products. Follow us for updates.",
+    "fr": "Nous préparons les produits de la boutique. Suivez-nous pour les nouveautés."
+  },
+  " د.م": {
+    "en": " MAD",
+    "fr": " MAD"
+  },
+  "أدخل رقمًا مغربيًا من 10 أرقام يبدأ بـ05 أو06 أو07.": {
+    "en": "Enter a 10-digit Moroccan phone number starting with 05, 06 or 07.",
+    "fr": "Saisissez un numéro marocain de 10 chiffres commençant par 05, 06 ou 07."
+  },
+  "أكمل الاسم والمدينة والعنوان بالتفصيل.": {
+    "en": "Complete your name, city and full address.",
+    "fr": "Complétez votre nom, ville et adresse détaillée."
+  },
+  "أحد المنتجات غير متاح للطلب حاليًا.": {
+    "en": "A product is currently unavailable to order.",
+    "fr": "Un produit est actuellement indisponible à la commande."
+  },
+  "هذا العرض غير متاح حاليًا. اختر عرضًا آخر أو تواصل معنا.": {
+    "en": "This offer is unavailable. Choose another offer or contact us.",
+    "fr": "Cette offre est indisponible. Choisissez une autre offre ou contactez-nous."
+  },
+  "تكلفة الجملة غير متاحة لنشر المنتج.": {
+    "en": "Wholesale cost is unavailable for publication.",
+    "fr": "Le coût de gros n’est pas disponible pour la publication."
+  },
+  ": المبلغ صغير جدًا لعدد الوحدات.": {
+    "en": ": Amount is too low for the quantity.",
+    "fr": " : Montant trop faible pour la quantité."
+  },
+  "ارفع إجمالي العرض أو قلل عدد الوحدات.": {
+    "en": "Increase the offer total or reduce units.",
+    "fr": "Augmentez le total de l’offre ou réduisez la quantité."
+  },
+  "هذا السعر لا يترك مبلغًا لتغطية توصيل مورد عند إعفاء السلة. ارفع السعر أو عطّل الشحن المجاني حسب مجموع السلة.": {
+    "en": "This price does not cover Mowarid shipping when delivery is waived. Increase the price or disable the free cart delivery threshold.",
+    "fr": "Ce prix ne couvre pas la livraison Mowarid lorsque vous offrez la livraison. Augmentez le prix ou désactivez le seuil de livraison gratuite du panier."
+  },
+  "داخل الدار البيضاء": {
+    "en": "Within Casablanca",
+    "fr": "À Casablanca"
+  },
+  "خارج الدار البيضاء": {
+    "en": "Outside Casablanca",
+    "fr": "Hors Casablanca"
+  },
+  "صفحة المنتج": {
+    "en": "Product page",
+    "fr": "Page produit"
+  },
+  " أو ألغِ الشحن المجاني لهذا العرض": {
+    "en": " or disable free shipping for this offer",
+    "fr": " ou désactivez la livraison gratuite de cette offre"
+  },
+  "الطلب المباشر مخصص لعرض منتج واحد.": {
+    "en": "Direct orders are for one product offer.",
+    "fr": "Les commandes directes sont réservées à une offre d’un seul produit."
+  },
+  "السلة فارغة أو تجاوزت الحد المسموح.": {
+    "en": "Cart is empty or exceeds the limit.",
+    "fr": "Le panier est vide ou dépasse la limite."
+  },
+  "أحد المنتجات غير متاح للشراء.": {
+    "en": "A product is unavailable for purchase.",
+    "fr": "Un produit n’est pas disponible à l’achat."
+  },
+  "اختر عرضًا واحدًا لكل صنف.": {
+    "en": "Choose one offer per item.",
+    "fr": "Choisissez une offre par produit."
+  },
+  "لا يمكن جمع منتجات موردين مختلفين في سلة واحدة.": {
+    "en": "Products from different suppliers cannot share a cart.",
+    "fr": "Les produits de fournisseurs différents ne peuvent pas être réunis dans le même panier."
+  },
+  "تغيرت بيانات أحد المنتجات. راجع السلة قبل المتابعة.": {
+    "en": "A product changed. Review your cart before continuing.",
+    "fr": "Un produit a changé. Vérifiez le panier avant de continuer."
+  },
+  "الكمية غير صالحة.": {
+    "en": "Invalid quantity.",
+    "fr": "Quantité invalide."
+  },
+  "العرض لم يعد متاحًا.": {
+    "en": "Offer no longer available.",
+    "fr": "L’offre n’est plus disponible."
+  },
+  "كمية العرض غير مطابقة.": {
+    "en": "Offer quantity does not match.",
+    "fr": "La quantité ne correspond pas à l’offre."
+  },
+  "قيمة العرض غير صالحة.": {
+    "en": "Invalid offer value.",
+    "fr": "Valeur de l’offre invalide."
+  },
+  "الكمية المطلوبة غير متوفرة حاليًا.": {
+    "en": "Requested quantity currently unavailable.",
+    "fr": "La quantité demandée n’est pas disponible."
+  },
+  "هذا المنتج من مورد مختلف. أفرغ السلة أولًا لإضافته.": {
+    "en": "This product has a different supplier. Empty the cart before adding it.",
+    "fr": "Ce produit dépend d’un autre fournisseur. Videz le panier avant de l’ajouter."
+  },
+  "حجم البيانات أكبر من المسموح.": {
+    "en": "Payload exceeds the allowed size.",
+    "fr": "Les données dépassent la taille autorisée."
+  },
+  "الشروط والأحكام": {
+    "en": "Terms and conditions",
+    "fr": "Conditions générales"
+  },
+  "سياسة الاسترجاع": {
+    "en": "Return policy",
+    "fr": "Politique de retour"
+  },
+  "نستخدم Cloudflare Turnstile للحماية من الطلبات الآلية. تخضع هذه الخدمة إلى": {
+    "en": "We use Cloudflare Turnstile to prevent automated requests. This service is subject to",
+    "fr": "Nous utilisons Cloudflare Turnstile pour empêcher les requêtes automatisées. Ce service est soumis à"
+  },
+  "سياسة خصوصية Cloudflare": {
+    "en": "Cloudflare privacy policy",
+    "fr": "la politique de confidentialité Cloudflare"
+  },
+  "ملحق خصوصية Turnstile": {
+    "en": "Turnstile privacy addendum",
+    "fr": "l’annexe de confidentialité Turnstile"
+  },
+  "الصفحة غير موجودة": {
+    "en": "Page not found",
+    "fr": "Page introuvable"
+  },
+  "احفظ مفتاح مورد أولًا.": {
+    "en": "Save your Mowarid key first.",
+    "fr": "Enregistrez d’abord votre clé Mowarid."
+  },
+  "مفتاح مورد غير صالح أو لا يملك الصلاحيات المطلوبة. راجع المفتاح في حساب مورد.": {
+    "en": "Invalid Mowarid key or missing permissions. Check your key in Mowarid.",
+    "fr": "Clé Mowarid invalide ou permissions insuffisantes. Vérifiez votre clé dans Mowarid."
+  },
+  "وصل الاتصال بمورد إلى حد الطلبات المؤقت. ستُعاد المحاولة تلقائيًا.": {
+    "en": "Mowarid rate limit reached temporarily. The request will retry automatically.",
+    "fr": "Limite temporaire de requêtes Mowarid atteinte. Une nouvelle tentative sera effectuée automatiquement."
+  },
+  "تعذر الوصول إلى مورد الآن. حاول مجددًا بعد قليل.": {
+    "en": "Cannot reach Mowarid now. Try again shortly.",
+    "fr": "Impossible de joindre Mowarid actuellement. Réessayez dans un instant."
+  },
+  "خدمة مورد غير متاحة مؤقتًا. حاول مجددًا بعد قليل.": {
+    "en": "Mowarid temporarily unavailable. Try again shortly.",
+    "fr": "Mowarid est temporairement indisponible. Réessayez dans un instant."
+  },
+  "تعذر إتمام الاتصال بمورد. افحص الربط ثم أعد المحاولة.": {
+    "en": "Mowarid connection failed. Check the connection and retry.",
+    "fr": "La connexion à Mowarid a échoué. Vérifiez la connexion et réessayez."
+  },
+  "صحّح الخانات التالية: ": {
+    "en": "Correct these fields: ",
+    "fr": "Corrigez les champs suivants : "
+  },
+  "؛ ": {
+    "en": "; ",
+    "fr": " ; "
+  },
+  "تعذر إتمام العملية. حاول مجددًا.": {
+    "en": "Unable to complete the operation. Try again.",
+    "fr": "Impossible de terminer l’opération. Réessayez."
+  },
+  "معرف الطلب مستخدم لمحتويات أخرى.": {
+    "en": "Order ID already used for different contents.",
+    "fr": "Cet identifiant de commande est utilisé pour un autre contenu."
+  },
+  "تغير الإجمالي. راجع السلة ثم أعد المحاولة.": {
+    "en": "Total changed. Review your cart and retry.",
+    "fr": "Le total a changé. Vérifiez votre panier et réessayez."
+  },
+  "المنتجات غير جاهزة لاستقبال الطلبات بعد.": {
+    "en": "Products are not ready for orders yet.",
+    "fr": "Les produits ne sont pas encore prêts à recevoir des commandes."
+  },
+  "لغة الإدارة": {
+    "en": "Dashboard language",
+    "fr": "Langue de l’administration"
+  },
+  "لغة المتجر": {
+    "en": "Store language",
+    "fr": "Langue de la boutique"
+  },
+  "لغتان مستقلتان؛ تغيير لغة الإدارة لا يغيّر لغة المتجر.": {
+    "en": "Independent languages; changing the dashboard language does not change the store language.",
+    "fr": "Les langues sont indépendantes ; changer la langue de l’administration ne change pas celle de la boutique."
+  },
+  "نصوص الواجهة الجاهزة": {
+    "en": "Built-in interface text",
+    "fr": "Textes de l’interface"
+  },
+  "تخصيص العبارات": {
+    "en": "Customize phrases",
+    "fr": "Personnaliser les textes"
+  },
+  "اختر العبارة": {
+    "en": "Choose a phrase",
+    "fr": "Choisir un texte"
+  },
+  "النص المخصص": {
+    "en": "Custom text",
+    "fr": "Texte personnalisé"
+  },
+  "استعادة النص الافتراضي": {
+    "en": "Restore default text",
+    "fr": "Rétablir le texte par défaut"
+  },
+  "تُجهّز عبارات الواجهة تلقائيًا. تُحفظ تعديلات كل لغة منفصلة. الصور وأسماء المنتجات والمحتوى الخاص لا تُترجم تلقائيًا.": {
+    "en": "Built-in text is ready automatically. Each language keeps its own edits. Images, product names and custom content are not translated automatically.",
+    "fr": "Les textes de l’interface sont prêts automatiquement. Chaque langue conserve ses modifications. Les images, noms de produits et contenus personnalisés ne sont pas traduits automatiquement."
+  },
+  "محتوى التوصيل والاسترجاع": {
+    "en": "Delivery and returns content",
+    "fr": "Contenu Livraison et retours"
+  },
+  "اتركه فارغًا لاستخدام نص المتجر الافتراضي.": {
+    "en": "Leave blank to use the store’s default text.",
+    "fr": "Laissez vide pour utiliser le texte par défaut de la boutique."
+  },
+  "طريقة اختيار المنتجات المقترحة": {
+    "en": "Product recommendation mode",
+    "fr": "Mode de sélection des produits suggérés"
+  },
+  "اختيار تلقائي": {
+    "en": "Automatic selection",
+    "fr": "Sélection automatique"
+  },
+  "أختار المنتجات بنفسي": {
+    "en": "Choose products manually",
+    "fr": "Sélection manuelle"
+  },
+  "إخفاء الاقتراحات": {
+    "en": "Hide recommendations",
+    "fr": "Masquer les suggestions"
+  },
+  "اختر حتى 8 منتجات منشورة وظاهرة من المورد نفسه. يُحترم ترتيب اختيارك، وتُستبعد المنتجات غير المتاحة تلقائيًا.": {
+    "en": "Choose up to 8 published, visible products from the same supplier. Your selection order is preserved; unavailable products are excluded automatically.",
+    "fr": "Choisissez jusqu’à 8 produits publiés et visibles du même fournisseur. L’ordre de sélection est conservé ; les produits indisponibles sont exclus automatiquement."
+  },
+  "نسخ المحتوى باللغات": {
+    "en": "Content by language",
+    "fr": "Contenu par langue"
+  },
+  "لغة نسخة المنتج": {
+    "en": "Product content language",
+    "fr": "Langue du contenu produit"
+  },
+  "اسم المنتج بهذه اللغة": {
+    "en": "Product name in this language",
+    "fr": "Nom du produit dans cette langue"
+  },
+  "وصف المنتج بهذه اللغة": {
+    "en": "Product description in this language",
+    "fr": "Description du produit dans cette langue"
+  },
+  "محتوى التوصيل بهذه اللغة": {
+    "en": "Delivery content in this language",
+    "fr": "Contenu de livraison dans cette langue"
+  },
+  "الحقول الفارغة تستخدم محتوى المنتج الأصلي.": {
+    "en": "Empty fields use the original product content.",
+    "fr": "Les champs vides utilisent le contenu original du produit."
+  },
+  "تقليل الكمية": {
+    "en": "Decrease quantity",
+    "fr": "Diminuer la quantité"
+  },
+  "زيادة الكمية": {
+    "en": "Increase quantity",
+    "fr": "Augmenter la quantité"
+  },
+  "حذف المنتج": {
+    "en": "Remove product",
+    "fr": "Retirer le produit"
+  },
+  "السلة تنتظر اختياراتك": {
+    "en": "Your cart is waiting for your choices",
+    "fr": "Votre panier attend vos choix"
+  },
+  "اكتشف المنتجات ←": {
+    "en": "Discover products →",
+    "fr": "Découvrir les produits →"
+  },
+  "أضف منتجات بقيمة {amount} لتحصل على توصيل مجاني": {
+    "en": "Add products worth {amount} to get free delivery",
+    "fr": "Ajoutez des produits pour {amount} pour bénéficier de la livraison gratuite"
+  },
+  "وحدة صفحة الهبوط {number}: ": {
+    "en": "Landing page block {number}: ",
+    "fr": "Bloc de landing page {number} : "
+  },
+  "العرض {number}: ": {
+    "en": "Offer {number}: ",
+    "fr": "Offre {number} : "
+  },
+  "الحد الأقصى {number} حرفًا.": {
+    "en": "Maximum {number} characters.",
+    "fr": "Maximum {number} caractères."
+  },
+  "القيمة تتجاوز الحد المسموح ({number}).": {
+    "en": "Value exceeds the limit ({number}).",
+    "fr": "La valeur dépasse la limite ({number})."
+  },
+  "أكمل هذه الخانة؛ الحد الأدنى {number} حرفًا.": {
+    "en": "Complete this field; at least {number} characters.",
+    "fr": "Complétez ce champ ; au moins {number} caractères."
+  },
+  "أدخل قيمة لا تقل عن {number}{exclusive}.": {
+    "en": "Enter a value of at least {number}{exclusive}.",
+    "fr": "Saisissez une valeur au moins égale à {number}{exclusive}."
+  },
+  "حُفظت نسخة الأمان.": {
+    "en": "Backup saved.",
+    "fr": "Sauvegarde enregistrée."
+  },
+  "الكمية المطلوبة غير متوفرة. جرّب كمية أقل.": {
+    "fr": "La quantité demandée n’est pas disponible. Essayez une quantité inférieure.",
+    "en": "The requested quantity is unavailable. Try a smaller quantity."
+  },
+  "رقم طلبك في المتجر": {
+    "en": "Your store order reference",
+    "fr": "Référence de votre commande dans la boutique"
+  },
+  "عرض قائمة المدن": {
+    "en": "Show city list",
+    "fr": "Afficher la liste des villes"
+  },
+  "المدن": {
+    "en": "Cities",
+    "fr": "Villes"
+  },
+  "جارٍ تحميل المدن…": {
+    "en": "Loading cities…",
+    "fr": "Chargement des villes…"
+  },
+  "يمكنك كتابة مدينتك مباشرة.": {
+    "en": "You can type your city directly.",
+    "fr": "Vous pouvez saisir votre ville directement."
+  },
+  "آخر تحديث": {
+    "fr": "Dernière mise à jour",
+    "en": "Last update"
+  },
+  "تتبع الطلب": {
+    "fr": "Suivi de commande",
+    "en": "Order tracking"
+  },
+  "تتبع الطلب بمورد": {
+    "fr": "Suivre sur Mowarid",
+    "en": "Track order on Mowarid"
+  },
+  "شراء الآن": {
+    "fr": "Acheter maintenant",
+    "en": "Buy now"
+  },
+  "ينتهي العرض في": {
+    "fr": "Offre valable jusqu’au",
+    "en": "Offer ends on"
+  },
+  "إيميل التواصل": {
+    "fr": "E-mail de contact",
+    "en": "Contact email"
+  },
+  "هاتف التواصل": {
+    "fr": "Téléphone de contact",
+    "en": "Contact phone"
+  },
+  "وسائل التواصل في الفوتر": {
+    "fr": "Réseaux sociaux du pied de page",
+    "en": "Footer social profiles"
+  },
+  "تابعنا": {
+    "fr": "Suivez-nous",
+    "en": "Follow us"
+  },
+  "عروض صفحة الدفع (Upsell)": {
+    "fr": "Offres à la commande (Upsell)",
+    "en": "Checkout offers (Upsell)"
+  },
+  "إضافة اختيارية للزبون. اختر منتجًا أو باقة من المستودع نفسه وحدد السعر الإجمالي؛ لا يُضاف شيء تلقائيًا.": {
+    "fr": "Ajout facultatif : choisissez un produit ou un lot du même entrepôt et son prix total. Aucun ajout automatique.",
+    "en": "Optional addition: choose a product or bundle from the same warehouse and its total price. Nothing is added automatically."
+  },
+  "عنوان العرض": {
+    "fr": "Titre de l’offre",
+    "en": "Offer title"
+  },
+  "سعر الباقة الإجمالي بالدرهم": {
+    "fr": "Prix total du lot en dirhams",
+    "en": "Bundle total price in dirhams"
+  },
+  "نهاية العرض (اختياري، بتوقيت جهازك)": {
+    "fr": "Fin de l’offre (facultatif, heure de votre appareil)",
+    "en": "Offer ends (optional, your device time)"
+  },
+  "مفعّل": {
+    "fr": "Activé",
+    "en": "Enabled"
+  },
+  "حذف العرض": {
+    "fr": "Supprimer l’offre",
+    "en": "Remove offer"
+  },
+  "إضافة عرض اختياري": {
+    "fr": "Ajouter une offre facultative",
+    "en": "Add optional offer"
+  },
+  "السعر الأصلي بالدرهم": {
+    "fr": "Prix normal en dirhams",
+    "en": "Original price in dirhams"
+  },
+  "تفعيل سعر عرض": {
+    "fr": "Activer une promotion",
+    "en": "Enable sale price"
+  },
+  "سعر العرض بالدرهم": {
+    "fr": "Prix promotionnel en dirhams",
+    "en": "Sale price in dirhams"
+  },
+  "أضف إلى طلبك بعرض خاص": {
+    "fr": "Complétez votre commande avec une offre",
+    "en": "Add a special offer to your order"
+  },
+  "اختياري؛ يُضاف السعر المعروض إلى إجمالي طلبك.": {
+    "fr": "Facultatif : le prix affiché s’ajoute au total de votre commande.",
+    "en": "Optional: the displayed price is added to your order total."
+  },
+  "إضافة العرض": {
+    "fr": "Ajouter l’offre",
+    "en": "Add offer"
+  },
+  "الزيارات": {
+    "fr": "Visites",
+    "en": "Visits"
+  },
+  "الوصول لصفحة الشراء": {
+    "fr": "Accès à la commande",
+    "en": "Checkout visits"
+  },
+  "معدل التحويل": {
+    "fr": "Taux de conversion",
+    "en": "Conversion rate"
+  },
+  "رفضت Meta رمز CAPI. احفظ رمزًا صالحًا للبكسل في صفحة البكسلات؛ ستُعاد محاولة الأحداث المؤهلة.": {
+    "fr": "Meta a refusé le jeton CAPI. Enregistrez un jeton valide pour ce pixel ; les événements admissibles seront retentés.",
+    "en": "Meta rejected the CAPI token. Save a valid token for this pixel; eligible events will be retried."
+  },
+  "أحداث الشراء بعد التوصيل": {
+    "fr": "Événements d’achat après livraison",
+    "en": "Purchase events after delivery"
+  },
+  "أحداث أرسلت إلى Meta": {
+    "fr": "Événements envoyés à Meta",
+    "en": "Events sent to Meta"
+  },
+  "تعثر إرسالها": {
+    "fr": "Échecs d’envoi",
+    "en": "Failed events"
+  },
+  "الرمز مشفّر على الخادم ولا يمكن استرجاع قيمته من لوحة الإدارة. اترك الخانة فارغة للاحتفاظ بالرمز المحفوظ.": {
+    "fr": "Le jeton est chiffré sur le serveur et sa valeur n’est pas récupérable dans le tableau de bord. Laissez ce champ vide pour conserver le jeton enregistré.",
+    "en": "The token is encrypted on the server and cannot be retrieved through the dashboard. Leave the field empty to keep the saved token."
+  },
+  "قبلت Meta حدث CapiConnectionTest؛ راجع Évènements de test ضمن أحداث الخادم.": {
+    "fr": "Meta a accepté CapiConnectionTest ; consultez Évènements de test parmi les événements serveur.",
+    "en": "Meta accepted CapiConnectionTest; check Test Events under server events."
+  },
+  "جارٍ الفحص…": {
+    "fr": "Vérification…",
+    "en": "Checking…"
+  },
+  "اختبار اتصال CAPI": {
+    "fr": "Tester la connexion CAPI",
+    "en": "Test CAPI connection"
+  },
+  "انسخ رمز الاختبار من Évènements de test. نرسل حدث اتصال تجريبي، ولا نسجل عملية شراء وهمية. رمز الاختبار لا يُحفظ مع إعدادات المتجر.": {
+    "fr": "Copiez le code depuis Évènements de test. Nous envoyons un événement de connexion de test, sans achat fictif. Le code n’est pas enregistré dans les paramètres.",
+    "en": "Copy the code from Test Events. We send a test connection event without recording a fictional purchase. The test code is not saved in store settings."
+  },
+  "اختر المنتج": {
+    "fr": "Choisir le produit",
+    "en": "Choose product"
+  },
+  "عروض صفحة الدفع": {
+    "fr": "Offres à la commande",
+    "en": "Checkout offers"
+  },
+  "إعداد عروض صفحة الدفع": {
+    "fr": "Configurer les offres à la commande",
+    "en": "Configure checkout offers"
+  },
+  "اختيار المنتجات والباقات وأسعارها": {
+    "fr": "Choisir les produits, les lots et leurs prix",
+    "en": "Choose products, bundles and prices"
+  },
+  "أنشئ أول عرض لصفحة الدفع": {
+    "fr": "Créez votre première offre à la commande",
+    "en": "Create your first checkout offer"
+  },
+  "اختر المنتج، وحدد عدد الوحدات وسعر العرض. سترى معاينة قبل الحفظ.": {
+    "fr": "Choisissez le produit, la quantité et le prix de l’offre. Consultez l’aperçu avant d’enregistrer.",
+    "en": "Choose the product, quantity and offer price. Preview it before saving."
+  },
+  "عرض": {
+    "fr": "Offre",
+    "en": "Offer"
+  },
+  "معاينة العرض للزبون": {
+    "fr": "Aperçu pour le client",
+    "en": "Customer preview"
+  },
+  "أضف للسلة": {
+    "fr": "Ajouter au panier",
+    "en": "Add to cart"
+  },
+  "عرض لفترة محدودة": {
+    "fr": "Offre à durée limitée",
+    "en": "Limited-time offer"
+  },
+  "الوقت المتبقي للعرض": {
+    "fr": "Temps restant de l’offre",
+    "en": "Offer time remaining"
+  },
+  "يوم": {
+    "fr": "jours",
+    "en": "days"
+  },
+  "ساعة": {
+    "fr": "heures",
+    "en": "hours"
+  },
+  "دقيقة": {
+    "fr": "minutes",
+    "en": "minutes"
+  },
+  "ثانية": {
+    "fr": "secondes",
+    "en": "seconds"
+  },
+  "أكمل طلبك ووفّر": {
+    "en": "Complete your order and save",
+    "fr": "Complétez votre commande et économisez"
+  },
+  "وفّر": {
+    "en": "Save",
+    "fr": "Économisez"
+  },
+  "مجموع المنتجات مع العرض": {
+    "en": "Products total with this offer",
+    "fr": "Total des produits avec cette offre"
+  },
+  "التوصيل يُحسب في ملخص الطلب": {
+    "en": "Delivery is calculated in the order summary",
+    "fr": "Livraison calculée dans le récapitulatif"
+  },
+  "أضف العرض مقابل": {
+    "en": "Add this offer for",
+    "fr": "Ajoutez cette offre pour"
+  },
+  "اختر عرضًا مكملًا لمنتجك. الإضافة اختيارية.": {
+    "en": "Choose a complementary offer. Adding it is optional.",
+    "fr": "Choisissez une offre complémentaire. L’ajout est facultatif."
+  },
+  "عرض خاص مع منتجك": {
+    "en": "Special offer with your product",
+    "fr": "Offre spéciale avec votre produit"
+  },
+  "العرض مرتبط بمنتجه الأصلي ويجب إضافة جميع منتجاته بالكمية المحددة.": {
+    "en": "This offer requires its original product and all its complementary products in the specified quantities.",
+    "fr": "Cette offre nécessite son produit principal et tous les produits complémentaires dans les quantités indiquées."
+  },
+  "الحد الأقصى للكمية هو 100.": {
+    "fr": "La quantité maximale est de 100.",
+    "en": "The maximum quantity is 100."
+  },
+  "السعر الحالي للمنتج": {
+    "fr": "Prix actuel du produit",
+    "en": "Current product price"
+  },
+  "السعر لا يغطي التكلفة الإجمالية القصوى لمورد. ارفع السعر أو رسوم التوصيل.": {
+    "fr": "Le prix ne couvre pas le coût total maximal de Mowarid. Augmentez le prix ou les frais de livraison.",
+    "en": "The price does not cover Mowarid’s maximum total cost. Increase the price or delivery fee."
+  },
+  "سعر المنتجات منفصل عن التوصيل. الربح = إجمالي الزبون − تكلفة المنتجات − توصيل مورد للمنطقة. الحماية تعتمد أعلى تكلفة رسمية.": {
+    "fr": "Le prix des produits est séparé de la livraison. Bénéfice = total payé par le client − coût des produits − livraison Mowarid pour la zone. La protection utilise le coût officiel le plus élevé.",
+    "en": "Product prices are separate from delivery. Profit = customer total − product cost − Mowarid delivery for the area. Protection uses the highest official cost."
+  },
+  "طي جميع الأقسام": {
+    "fr": "Replier toutes les sections",
+    "en": "Collapse all sections"
+  },
+  "فتح جميع الأقسام": {
+    "fr": "Ouvrir toutes les sections",
+    "en": "Expand all sections"
+  },
+  "انتهى هذا العرض. راجع بيانات السلة قبل تأكيد الطلب.": {
+    "fr": "Cette offre est terminée. Vérifiez votre panier avant de confirmer la commande.",
+    "en": "This offer has ended. Review your cart before confirming the order."
+  },
+  "سعر المنتج الواحد في العرض بالدرهم": {
+    "fr": "Prix par produit dans l’offre en MAD",
+    "en": "Price per product in the offer in MAD"
+  },
+  "سعر المنتج الواحد للكميات الأكبر بالدرهم": {
+    "fr": "Prix par produit pour les quantités supérieures en MAD",
+    "en": "Price per product for larger quantities in MAD"
+  },
+  "سعر الكميات الأكبر": {
+    "en": "Price for larger quantities",
+    "fr": "Prix des quantités supérieures"
+  },
+  "الحد الأقصى للكمية": {
+    "fr": "Quantité maximale",
+    "en": "Maximum quantity"
+  },
+  "إجمالي العرض": {
+    "fr": "Total de l’offre",
+    "en": "Offer total"
+  },
+  "توصيل مجاني للكميات الأكبر": {
+    "fr": "Livraison gratuite pour les quantités supérieures",
+    "en": "Free delivery for larger quantities"
+  },
+  "يطبق هذا السعر من الكمية {quantity} فما فوق، ولا تتكرر الباقات.": {
+    "fr": "Ce prix s’applique à partir de {quantity} produits, sans répéter les lots.",
+    "en": "This price applies from quantity {quantity}, without repeating packs."
+  },
+  "من الكمية {quantity}: {price} لكل منتج": {
+    "en": "From quantity {quantity}: {price} per product",
+    "fr": "À partir de la quantité {quantity} : {price} par produit"
+  },
+  "حدد سعر المنتج للكميات الأكبر من آخر عرض.": {
+    "fr": "Définissez le prix par produit au-delà de la dernière offre.",
+    "en": "Set the per-product price above the last offer."
+  },
+  "حدد عرضًا واحدًا لكل كمية.": {
+    "fr": "Définissez une seule offre par quantité.",
+    "en": "Set one offer per quantity."
+  },
+  "أدخل رمز التثبيت الخاص الذي اخترته في Cloudflare. يُستخدم مرة واحدة لإنشاء حسابك.": {
+    "fr": "Saisissez le code privé choisi dans Cloudflare. Il sert une seule fois à créer votre compte.",
+    "en": "Enter the private setup code you chose in Cloudflare. It is used once to create your account."
+  },
+  "رمز التثبيت الخاص": {
+    "fr": "Code privé d’installation",
+    "en": "Private setup code"
+  },
+  "متابعة إنشاء الحساب": {
+    "fr": "Continuer la création du compte",
+    "en": "Continue account setup"
+  },
+  "حماية متجرك من الطلبات الآلية": {
+    "fr": "Protéger votre boutique contre les demandes automatisées",
+    "en": "Protect your store against automated requests"
+  },
+  "أنشئ أداة Turnstile مجانية في Cloudflare بوضع Invisible، وأضف نطاق متجرك أدناه، ثم انسخ المفتاحين.": {
+    "fr": "Créez un widget Turnstile gratuit dans Cloudflare en mode Invisible, ajoutez le domaine ci-dessous puis copiez les deux clés.",
+    "en": "Create a free Invisible Turnstile widget in Cloudflare, add the store hostname below and copy both keys."
+  },
+  "فتح Cloudflare Turnstile": {
+    "fr": "Ouvrir Cloudflare Turnstile",
+    "en": "Open Cloudflare Turnstile"
+  },
+  "أضف مفاتيح حماية Cloudflare Turnstile لإكمال التثبيت.": {
+    "fr": "Ajoutez vos clés Cloudflare Turnstile pour terminer l’installation.",
+    "en": "Add your Cloudflare Turnstile keys to complete installation."
+  },
+  "Turnstile Site Key": {
+    "fr": "Turnstile Site Key",
+    "en": "Turnstile Site Key"
+  },
+  "Turnstile Secret Key": {
+    "fr": "Turnstile Secret Key",
+    "en": "Turnstile Secret Key"
+  },
+  "سعر الكميات الأكبر تغير. راجع الإجمالي الجديد.": {
+    "en": "The price for larger quantities changed. Review the new total.",
+    "fr": "Le prix des quantités supérieures a changé. Vérifiez le nouveau total."
+  },
+  "المنتج موجود في السلة. اختر الباقة من السلة.": {
+    "fr": "Le produit est déjà dans le panier. Choisissez son pack dans le panier.",
+    "en": "This product is already in your cart. Choose its bundle in the cart."
+  },
+  "اختر إحدى الباقات المتاحة لهذا المنتج.": {
+    "fr": "Choisissez l’un des packs disponibles pour ce produit.",
+    "en": "Choose an available bundle for this product."
+  },
+  "راجع الباقات المتاحة": {
+    "fr": "Vérifier les packs disponibles",
+    "en": "Review available bundles"
+  },
+  "الباقة": {
+    "fr": "Pack",
+    "en": "Bundle"
+  },
+  "صفحات المتجر": {
+    "en": "Store pages",
+    "fr": "Pages de la boutique"
+  },
+  "إظهار صفحة {page}": {
+    "en": "Show the {page} page",
+    "fr": "Afficher la page {page}"
+  },
+  "اختر الصفحات التي تظهر للزائر. تعطيل الصفحة يخفي رابطها ويوقف فتحها، مع الاحتفاظ بالنص لإعادة تفعيلها لاحقًا.": {
+    "en": "Choose which pages visitors can see. Disabling a page hides its links and prevents access, while keeping its text for later.",
+    "fr": "Choisissez les pages visibles. Désactiver une page masque ses liens et bloque son accès, tout en conservant son texte pour la réactiver."
+  },
+  "نسّق النص باستخدام # للعناوين، و**نص** للخط العريض، و- للقوائم. يظهر التنسيق تلقائيًا في صفحة المتجر.": {
+    "en": "Use # for headings, **text** for bold, and - for lists. Formatting appears automatically on the store page.",
+    "fr": "Utilisez # pour les titres, **texte** pour le gras et - pour les listes. La mise en forme apparaît automatiquement sur la page."
+  },
+  "تعديل صفحة الهبوط": {
+    "en": "Edit landing page",
+    "fr": "Modifier la landing page"
+  },
+  "الرابط الأساسي للمنتج": {
+    "en": "Primary product link",
+    "fr": "Lien principal du produit"
+  },
+  "صور صفحة الهبوط وأزرارها واستمارتها": {
+    "en": "Landing page images, buttons and order form",
+    "fr": "Images, boutons et formulaire de la landing page"
+  },
+  "جهّز صفحة الإعلان للمنتج نفسه، حتى إذا كان الرابط الأساسي يعرض منتجًا عاديًا. ارفع الصور وأضف أزرار الشراء والاستمارة ورتّبها بالأسهم.": {
+    "en": "Build an advertising page for the same product, even when the primary link opens a regular product page. Upload images, add purchase buttons and an order form, and arrange them with the arrows.",
+    "fr": "Préparez une page publicitaire pour le même produit, même si le lien principal ouvre une page produit classique. Importez les images, ajoutez les boutons et le formulaire, puis organisez-les avec les flèches."
+  },
+  "معاينة صفحة الهبوط": {
+    "en": "Preview landing page",
+    "fr": "Prévisualiser la landing page"
+  },
+  "أضف استمارة طلب ظاهرة ليتمكن زر الشراء من الانتقال إليها.": {
+    "en": "Add a visible order form so the purchase button can scroll to it.",
+    "fr": "Ajoutez un formulaire de commande visible pour que le bouton d’achat puisse y accéder."
+  },
+  "إجمالي الربح الصافي للباقة (تقريبي)": {
+    "en": "Total estimated net profit for this bundle",
+    "fr": "Bénéfice net total estimé de ce pack"
+  },
+  "للكمية الكاملة": {
+    "en": "For the full quantity",
+    "fr": "Pour la quantité totale"
+  },
+  "المنتج المميز يظهر قبل المنتجات غير المميزة، وتظهر على بطاقته شارة التميّز. يجب حفظه ونشره وإظهاره في المتجر.": {
+    "en": "Featured products appear before other products and show a badge on their card. Save, publish and display the product in the store.",
+    "fr": "Les produits mis en avant apparaissent avant les autres et portent un badge. Enregistrez, publiez et affichez le produit dans la boutique."
+  },
+  "حالة المنتجات": {
+    "en": "Product status",
+    "fr": "Statut des produits"
+  },
+  "كل المنتجات": {
+    "en": "All products",
+    "fr": "Tous les produits"
+  },
+  "مفعّلة": {
+    "en": "Published",
+    "fr": "Publiés"
+  },
+  "المنتجات المتاحة في استمارة الهبوط": {
+    "en": "Products in the landing order form",
+    "fr": "Produits du formulaire de commande"
+  },
+  "المنتج الحالي متاح تلقائيًا. اختر حتى 6 منتجات إضافية؛ يطلب الزائر منتجًا واحدًا بسعره وباقاته. تظهر المنتجات المنشورة والمتوفرة فقط، حتى إن كانت مخفية من واجهة المتجر.": {
+    "en": "The current product is included. Choose up to 6 alternatives; visitors order one product using its prices and bundles. Only published, available products appear, including products hidden from the storefront.",
+    "fr": "Le produit actuel est inclus. Choisissez jusqu’à 6 alternatives ; le visiteur commande un seul produit avec ses prix et lots. Seuls les produits publiés et disponibles apparaissent, y compris ceux masqués dans la boutique."
+  },
+  "مكوّن من الباك الحالي (قطعة واحدة)": {
+    "en": "Component of this pack (one unit)",
+    "fr": "Composant de ce pack (une unité)"
+  },
+  "لحساب توفير الباك، حدّد مكوّناته الفردية فقط (منتجان على الأقل، قطعة من كل منتج). يظهر التوفير عندما يكون الباك أرخص من مجموع أسعارها الحالية. عدّل سعر كل منتج من صفحته.": {
+    "en": "To calculate pack savings, select its individual components only (at least two products, one unit each). Savings appear when the pack costs less than their current combined prices. Edit each product’s price in its editor.",
+    "fr": "Pour calculer l’économie du pack, sélectionnez uniquement ses composants individuels (au moins deux produits, une unité chacun). L’économie apparaît si le pack coûte moins que la somme de leurs prix actuels. Modifiez le prix de chaque produit dans sa fiche."
+  },
+  "شارة الدفع أعلى الاستمارة": {
+    "en": "Payment badge above the form",
+    "fr": "Badge de paiement au-dessus du formulaire"
+  },
+  "إظهار شارة الدفع أعلى استمارة الهبوط": {
+    "en": "Show the payment badge above the landing form",
+    "fr": "Afficher le badge de paiement au-dessus du formulaire"
+  },
+  "نص شارة الدفع": {
+    "en": "Payment badge text",
+    "fr": "Texte du badge de paiement"
+  },
+  "تغيير هذه الشارة لا يغيّر طريقة الدفع أو نص زر تأكيد الطلب.": {
+    "en": "Changing this badge does not change the payment method or the order button text.",
+    "fr": "Modifier ce badge ne change ni le mode de paiement ni le texte du bouton de commande."
+  },
+  "اختر المنتج الذي تريد طلبه": {
+    "en": "Choose the product you want to order",
+    "fr": "Choisissez le produit à commander"
+  },
+  "توفير {amount} مقارنة بشراء المكونات منفصلة": {
+    "en": "Save {amount} compared with buying the components separately",
+    "fr": "Économisez {amount} par rapport aux composants achetés séparément"
+  },
+  "بطاقة تراخيص المنتجات": {
+    "en": "Product registration card",
+    "fr": "Carte d’enregistrement des produits"
+  },
+  "إظهار بطاقة التراخيص والشهادات": {
+    "en": "Show the registration and certificates card",
+    "fr": "Afficher la carte d’enregistrement et de certificats"
+  },
+  "فعّلها عندما تتوفر بيانات التسجيل أو الشهادات المطابقة لمنتجاتك. شعارات الهيئات لا تثبت الترخيص وحدها.": {
+    "en": "Enable it when you have registration details or certificates matching your products. Authority logos alone do not establish registration.",
+    "fr": "Activez-la lorsque vous disposez d’enregistrements ou de certificats correspondant à vos produits. Les logos des autorités ne prouvent pas l’enregistrement à eux seuls."
+  },
+  "عنوان بطاقة التراخيص": {
+    "en": "Registration card title",
+    "fr": "Titre de la carte d’enregistrement"
+  },
+  "وصف بطاقة التراخيص": {
+    "en": "Registration card description",
+    "fr": "Description de la carte d’enregistrement"
+  },
+  "رابط التسجيل أو الشهادات (اختياري)": {
+    "en": "Registration or certificates link (optional)",
+    "fr": "Lien d’enregistrement ou de certificats (facultatif)"
+  },
+  "اترك النص فارغًا لإخفاء الشارة.": {
+    "en": "Leave the text empty to hide the badge.",
+    "fr": "Laissez le texte vide pour masquer le badge."
+  },
+  "عرض بيانات التسجيل والشهادات ↗": {
+    "en": "View registrations and certificates ↗",
+    "fr": "Voir les enregistrements et certificats ↗"
+  },
+  "معلومات تراخيص المنتجات": {
+    "en": "Product registration information",
+    "fr": "Informations d’enregistrement des produits"
+  },
+  "بيانات التسجيل والشهادات الخاصة بالمنتجات.": {
+    "en": "Product registration details and certificates.",
+    "fr": "Détails d’enregistrement et certificats des produits."
+  },
+  "ترتيب المنتجات": {
+    "en": "Sort products",
+    "fr": "Trier les produits"
+  },
+  "الترتيب الافتراضي": {
+    "en": "Default order",
+    "fr": "Ordre par défaut"
+  },
+  "السعر: من الأقل إلى الأعلى": {
+    "en": "Price: low to high",
+    "fr": "Prix : croissant"
+  },
+  "السعر: من الأعلى إلى الأقل": {
+    "en": "Price: high to low",
+    "fr": "Prix : décroissant"
+  },
+  "منتجاتنا مرخصة حسب الصنف من :": {
+    "fr": "Nos produits sont autorisés, selon leur catégorie, par :",
+    "en": "Our products are licensed, by category, by:"
+  },
+  "معلومات صفحة المنتج": {
+    "fr": "Informations de la fiche produit",
+    "en": "Product page information"
+  },
+  "إظهار ملخص التوصيل والاسترجاع في صفحة المنتج": {
+    "fr": "Afficher le résumé livraison et retours sur la fiche produit",
+    "en": "Show the delivery and returns summary on product pages"
+  },
+  "عنوان ملخص التوصيل والاسترجاع": {
+    "fr": "Titre du résumé livraison et retours",
+    "en": "Delivery and returns summary title"
+  },
+  "نص ملخص التوصيل والاسترجاع": {
+    "fr": "Texte du résumé livraison et retours",
+    "en": "Delivery and returns summary text"
+  },
+  "عنوان أيقونة التوصيل": {
+    "fr": "Titre de l’icône livraison",
+    "en": "Delivery icon title"
+  },
+  "نص أيقونة التوصيل": {
+    "fr": "Texte de l’icône livraison",
+    "en": "Delivery icon text"
+  },
+  "عنوان أيقونة الدفع": {
+    "fr": "Titre de l’icône paiement",
+    "en": "Payment icon title"
+  },
+  "نص أيقونة الدفع": {
+    "fr": "Texte de l’icône paiement",
+    "en": "Payment icon text"
+  },
+  "استخدم {casa} و{other} لإظهار رسوم التوصيل الحالية. تعديل النص لا يغيّر الرسوم.": {
+    "fr": "Utilisez {casa} et {other} pour afficher les frais de livraison actuels. Modifier le texte ne change pas les frais.",
+    "en": "Use {casa} and {other} to show current delivery fees. Editing the text does not change the fees."
+  },
+  "لغة اسم القسم": {
+    "fr": "Langue du nom de la catégorie",
+    "en": "Category name language"
+  },
+  "اسم القسم — {language}": {
+    "fr": "Nom de la catégorie — {language}",
+    "en": "Category name — {language}"
+  },
+  "الدار البيضاء: {casa} · باقي المدن: {other}": {
+    "fr": "Casablanca : {casa} · Autres villes : {other}",
+    "en": "Casablanca: {casa} · Other cities: {other}"
+  },
+  "نؤكد طلبك هاتفيًا قبل إرساله.": {
+    "fr": "Nous confirmons votre commande par téléphone avant l’expédition.",
+    "en": "We confirm your order by phone before dispatch."
+  },
+  "نؤكد طلبك هاتفيًا قبل إرساله. للاستفسار عن التوصيل أو الاسترجاع، تواصل مع خدمة العملاء.": {
+    "fr": "Nous confirmons votre commande par téléphone avant l’expédition. Pour toute question sur la livraison ou les retours, contactez le service client.",
+    "en": "We confirm your order by phone before dispatch. Contact customer service for delivery or return questions."
+  },
+  "عرض الشعار": {
+    "fr": "Affichage du logo",
+    "en": "Logo display"
+  },
+  "عرض الشعار (بالبكسل)": {
+    "fr": "Largeur du logo (pixels)",
+    "en": "Logo width (pixels)"
+  },
+  "تكبير الشعار داخل الإطار": {
+    "fr": "Zoom du logo dans le cadre",
+    "en": "Logo zoom within its frame"
+  },
+  "إظهار اسم المتجر بجانب الشعار": {
+    "fr": "Afficher le nom de la boutique à côté du logo",
+    "en": "Show the store name beside the logo"
+  },
+  "ارفع التكبير إذا كانت الصورة تحتوي على هوامش فارغة. لا يغيّر ذلك ملف الشعار.": {
+    "fr": "Augmentez le zoom si l’image contient des marges vides. Le fichier du logo reste intact.",
+    "en": "Increase the zoom when the image has empty margins. The logo file stays intact."
+  },
+  "الخط وحجم الكتابة": {
+    "fr": "Police et taille du texte",
+    "en": "Font and text size"
+  },
+  "خط المتجر": {
+    "fr": "Police de la boutique",
+    "en": "Store font"
+  },
+  "خط الجهاز": {
+    "fr": "Police de l’appareil",
+    "en": "Device font"
+  },
+  "حجم النص على الحاسوب": {
+    "fr": "Taille du texte sur ordinateur",
+    "en": "Desktop text size"
+  },
+  "حجم النص على الهاتف": {
+    "fr": "Taille du texte sur mobile",
+    "en": "Mobile text size"
+  },
+  "سُمك النص": {
+    "fr": "Épaisseur du texte",
+    "en": "Text weight"
+  },
+  "متوسط": {
+    "fr": "Moyen",
+    "en": "Medium"
+  },
+  "واضح": {
+    "fr": "Renforcé",
+    "en": "Strong"
+  },
+  "اختر حجمًا من 16 إلى 20. يشمل نصوص المتجر والمنتجات وصفحة الطلب.": {
+    "fr": "Choisissez une taille de 16 à 20 pour les textes de la boutique, des produits et du paiement.",
+    "en": "Choose a size from 16 to 20 for store, product and checkout text."
+  },
+  "إظهار القائمة العلوية للمتجر": {
+    "fr": "Afficher le menu supérieur de la boutique",
+    "en": "Show the store header navigation"
+  },
+  "إعادة حساب الإجمالي": {
+    "en": "Recalculate total",
+    "fr": "Recalculer le total"
+  },
+  "سيتواصل معك رجل التوصيل": {
+    "en": "The delivery driver will contact you.",
+    "fr": "Le livreur vous contactera."
+  },
+  "جارٍ تسجيل طلبك…": {
+    "en": "Saving your order…",
+    "fr": "Enregistrement de votre commande…"
+  }
+}

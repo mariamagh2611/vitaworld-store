@@ -1,0 +1,44 @@
+name = "mowarid-store"
+main = "worker/index.js"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+workers_dev = true
+
+[assets]
+directory = "dist"
+binding = "ASSETS"
+html_handling = "none"
+run_worker_first = ["/", "/admin", "/admin/*", "/api/*", "/products/*", "/shop/*", "/offers/*", "/checkout", "/policies/*", "/media/*", "/demo/*", "/sitemap.xml", "/robots.txt"]
+
+[triggers]
+crons = ["* * * * *"]
+
+[vars]
+ENVIRONMENT = "production"
+MEDIA_ORIGIN = "/media"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "store"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "store-media"
+
+[[r2_buckets]]
+binding = "BACKUPS"
+bucket_name = "store-backups"
+
+[[durable_objects.bindings]]
+name = "PASSWORD_HASHER"
+class_name = "PasswordHasher"
+
+[[durable_objects.bindings]]
+name = "OPERATIONS"
+class_name = "StoreOperations"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["PasswordHasher", "StoreOperations"]
